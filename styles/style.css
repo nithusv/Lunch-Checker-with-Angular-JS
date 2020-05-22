@@ -1,0 +1,22 @@
+#black {
+    color: black;
+    text-align: center;
+}
+
+#green {
+    color: green;
+    text-align: center;
+}
+
+#red {
+    color: red;
+    text-align: center;
+}
+
+#lunch-menu-red{
+    border-color: red;
+}
+
+#lunch-menu-green{
+    border-color: green;
+}
